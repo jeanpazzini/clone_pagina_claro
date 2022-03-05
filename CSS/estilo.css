@@ -1,0 +1,21 @@
+.cab{
+    background-color: #d13d19;
+    color: white;
+    font-size: 25px;
+}
+.cab2{
+    background-color: #d13d19;
+    color: white;
+    font-size: 20px;
+}
+.linha{
+    display: flex;
+flex-flow: row wrap;
+}
+.dist{
+    padding: 50px;
+    font-size: 18px;
+    text-align: center;
+    background-color:white;
+    color: black;
+}
